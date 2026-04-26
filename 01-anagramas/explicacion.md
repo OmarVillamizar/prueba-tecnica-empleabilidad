@@ -12,3 +12,4 @@ O(n)
 ### Espacio
 O(n)
 ## Test unitarios
+Tuve que explorar el uso de PYTEST, ya que nunca habia realizado test unitarios para mi código, realmente me ayude de la IA para crear 10 casos de prueba y ponerlo a prueba, como resultado he aprendido la estructura y el uso de pytest, y he obtenido 10/10 casos de prueba aprobados.
